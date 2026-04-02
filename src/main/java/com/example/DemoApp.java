@@ -1,5 +1,6 @@
-import java.util.logging.Logger;
 package com.example;
+
+import java.util.logging.Logger;
 
 public class DemoApp {
     private static final Logger LOGGER = Logger.getLogger(DemoApp.class.getName());
