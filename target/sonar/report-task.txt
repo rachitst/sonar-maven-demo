@@ -1,0 +1,6 @@
+projectKey=demo
+serverUrl=http://13.53.39.182:9000
+serverVersion=9.9.1.69595
+dashboardUrl=http://13.53.39.182:9000/dashboard?id=demo
+ceTaskId=AZ1PMNYTCj-VIQlEgGx0
+ceTaskUrl=http://13.53.39.182:9000/api/ce/task?id=AZ1PMNYTCj-VIQlEgGx0
